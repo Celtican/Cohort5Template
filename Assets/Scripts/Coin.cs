@@ -8,7 +8,7 @@ public class Coin : MonoBehaviour
     public void OnTriggerEnter2D(Collider2D collision)
     {
         //If it does touch something, print a message and destroy this coin
-        Debug.Log("Coin Collected!");
+        Debug.Log("Whatever the heck we want");
         Destroy(this.gameObject);
     }
 }
