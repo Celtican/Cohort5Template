@@ -1929,6 +1929,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6695153068064462017, guid: 6ab9c66f995070e4082684f0435cf5be, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6695153068064462017, guid: 6ab9c66f995070e4082684f0435cf5be, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6695153068064462017, guid: 6ab9c66f995070e4082684f0435cf5be, type: 3}
+      propertyPath: m_Color.r
+      value: 0.5524682
+      objectReference: {fileID: 0}
     - target: {fileID: 6695153068064462022, guid: 6ab9c66f995070e4082684f0435cf5be, type: 3}
       propertyPath: m_Name
       value: Brick (2)
@@ -2128,9 +2140,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4353874201159308614, guid: 31f99860548c22c49a8cc41fb0de134a, type: 3}
+      propertyPath: m_Radius
+      value: 0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353874201159308614, guid: 31f99860548c22c49a8cc41fb0de134a, type: 3}
+      propertyPath: m_Offset.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4353874201159308617, guid: 31f99860548c22c49a8cc41fb0de134a, type: 3}
       propertyPath: m_RootOrder
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353874201159308617, guid: 31f99860548c22c49a8cc41fb0de134a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.8458772
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353874201159308617, guid: 31f99860548c22c49a8cc41fb0de134a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.8458772
+      objectReference: {fileID: 0}
+    - target: {fileID: 4353874201159308617, guid: 31f99860548c22c49a8cc41fb0de134a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.8458772
       objectReference: {fileID: 0}
     - target: {fileID: 4353874201159308617, guid: 31f99860548c22c49a8cc41fb0de134a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2172,6 +2204,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4353874201159308618, guid: 31f99860548c22c49a8cc41fb0de134a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dc7f20135e5d5e848bb597d4dbb0ae1e, type: 3}
     - target: {fileID: 4353874201159308619, guid: 31f99860548c22c49a8cc41fb0de134a, type: 3}
       propertyPath: m_Name
       value: Player
